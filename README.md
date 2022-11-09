@@ -1,2 +1,2 @@
-# fao-bootcamp 
+# Fao-bootcamp 
 # Landing page
