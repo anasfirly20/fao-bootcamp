@@ -16,7 +16,7 @@ h1{
 }
 
 hr {
-    margin: 20px auto;
+    margin: 21px auto;
     color: #F05F44;
     border: 1px solid #F05F44;
     max-width: 65px;
@@ -24,7 +24,7 @@ hr {
 }
 
 .buffer {
-    height: 11rem;
+    height: 12rem;
 }
 
 .btn {
